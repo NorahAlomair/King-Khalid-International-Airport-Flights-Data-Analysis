@@ -28,7 +28,7 @@ The project aims to provide insights into flight operations at King Khalid Inter
 128     2025-07-21          799
 142     2025-08-04          798
 * airports have the highest number of departing flights : Riyadh    153308
-* Flight status: majority of flights departed as scheduled, with a small percentage canceled or delayed.
+
 
 💡 Key learnings and practical experience through this project:
 
