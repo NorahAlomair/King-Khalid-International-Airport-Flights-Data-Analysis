@@ -38,5 +38,3 @@ The project aims to provide insights into flight operations at King Khalid Inter
 * Understanding airline operations, airport traffic, and peak activity periods.
 
 📁 Data Source:(https://www.kaggle.com/mohammedalsubaie)
-
-هل أسويها لك؟
